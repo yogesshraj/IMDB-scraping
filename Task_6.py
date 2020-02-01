@@ -1,6 +1,6 @@
 import requests,json,pprint,os
 from bs4 import BeautifulSoup
-from Task_3&4 import osm,details
+from Task_3and4 import osm,details
 list1=osm()
 c=[]
 url_list1=[]
